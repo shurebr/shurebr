@@ -6,7 +6,7 @@
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](wdosanjos@protonmail.com)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shurebr)
 
-![shurebr's GitHub stats](https://github-readme-stats.vercel.app/api?username=shurebr&show_icons=true&theme=dracula)
+![Shurebr GitHub stats](https://github-readme-stats.vercel.app/api?username=shurebr&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu mais utilizo no meu dia-a-dia:
